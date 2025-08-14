@@ -1,0 +1,668 @@
+[
+  {
+    "name": "ACAPELA",
+    "minRate": 0.5,
+    "maxRate": 0.5,
+    "eiqPerHa": 3.7836835715749997
+  },
+  {
+    "name": "ACETOCLORPHILAGRO",
+    "minRate": 0.7,
+    "maxRate": 0.8,
+    "eiqPerHa": 31.516403126472
+  },
+  {
+    "name": "ACROBAT",
+    "minRate": 2.0,
+    "maxRate": 2.0,
+    "eiqPerHa": 77.41863023390722
+  },
+  {
+    "name": "ACRONIS",
+    "minRate": 3.0,
+    "maxRate": 4.0,
+    "eiqPerHa": 106.42007337892414
+  },
+  {
+    "name": "ACTARA",
+    "minRate": 0.06,
+    "maxRate": 0.07,
+    "eiqPerHa": 1.2846795301833136
+  },
+  {
+    "name": "ADAMALINURON50",
+    "minRate": 2.5,
+    "maxRate": 2.5,
+    "eiqPerHa": 42.59330901840001
+  },
+  {
+    "name": "ALIETTE",
+    "minRate": 1.5,
+    "maxRate": 2.0,
+    "eiqPerHa": 42.328754304
+  },
+  {
+    "name": "ALIKA",
+    "minRate": 0.2,
+    "maxRate": 0.2,
+    "eiqPerHa": 3.8076875151353153
+  },
+  {
+    "name": "AMISTARTOP",
+    "minRate": 0.5,
+    "maxRate": 1.0,
+    "eiqPerHa": 17.93387013967705
+  },
+  {
+    "name": "AZIMUT",
+    "minRate": 1.5,
+    "maxRate": 1.7,
+    "eiqPerHa": 11.243575361999998
+  },
+  {
+    "name": "AZOXYPRO",
+    "minRate": 0.5,
+    "maxRate": 0.5,
+    "eiqPerHa": 10.508632775288405
+  },
+  {
+    "name": "BARON",
+    "minRate": 1.5,
+    "maxRate": 1.5,
+    "eiqPerHa": 22.5714114005364
+  },
+  {
+    "name": "BASAGRAN",
+    "minRate": 0.625,
+    "maxRate": 1.5,
+    "eiqPerHa": 30.6883468651089
+  },
+  {
+    "name": "BASAGRAN60",
+    "minRate": 0.6,
+    "maxRate": 1.4,
+    "eiqPerHa": 42.96368561115246
+  },
+  {
+    "name": "BELLIS",
+    "minRate": 0.25,
+    "maxRate": 0.25,
+    "eiqPerHa": 5.5777797399421285
+  },
+  {
+    "name": "BENEVIA",
+    "minRate": 0.75,
+    "maxRate": 0.75,
+    "eiqPerHa": 2.425636037655
+  },
+  {
+    "name": "BIFENTRIN",
+    "minRate": 0.1,
+    "maxRate": 0.15,
+    "eiqPerHa": 3.6665629948874994
+  },
+  {
+    "name": "BOGARD",
+    "minRate": 0.5,
+    "maxRate": 0.5,
+    "eiqPerHa": 6.0627122049999995
+  },
+  {
+    "name": "CARBOXIN/THIRAM",
+    "minRate": 1.0,
+    "maxRate": 1.0,
+    "eiqPerHa": 21.15776328414
+  },
+  {
+    "name": "CELEST",
+    "minRate": 0.75,
+    "maxRate": 0.75,
+    "eiqPerHa": 7.891997823944999
+  },
+  {
+    "name": "CERILLO",
+    "minRate": 2.0,
+    "maxRate": 2.0,
+    "eiqPerHa": 33.47792936037641
+  },
+  {
+    "name": "CHESS",
+    "minRate": 0.25,
+    "maxRate": 0.3,
+    "eiqPerHa": 6.4705673908023105
+  },
+  {
+    "name": "CHLORPYRIFOS",
+    "minRate": 2.0,
+    "maxRate": 4.0,
+    "eiqPerHa": 236.776469388
+  },
+  {
+    "name": "CLETODIM",
+    "minRate": 0.7,
+    "maxRate": 1.075,
+    "eiqPerHa": 9.669474811319999
+  },
+  {
+    "name": "CLOROTALONIL",
+    "minRate": 1.75,
+    "maxRate": 1.75,
+    "eiqPerHa": 72.1784259924718
+  },
+  {
+    "name": "CLORPIRIFOS",
+    "minRate": 0.2,
+    "maxRate": 3.0,
+    "eiqPerHa": 177.582352041
+  },
+  {
+    "name": "COMMAND",
+    "minRate": 0.4975,
+    "maxRate": 0.7,
+    "eiqPerHa": 14.540985322281598
+  },
+  {
+    "name": "CONFIDOR",
+    "minRate": 0.44,
+    "maxRate": 0.44,
+    "eiqPerHa": 8.902486601822
+  },
+  {
+    "name": "CONFIDOROD",
+    "minRate": 0.44,
+    "maxRate": 0.44,
+    "eiqPerHa": 7.1219892814576
+  },
+  {
+    "name": "COSMIC",
+    "minRate": 0.2,
+    "maxRate": 0.3,
+    "eiqPerHa": 3.6500613945767992
+  },
+  {
+    "name": "COTACUATRO",
+    "minRate": 0.625,
+    "maxRate": 1.0,
+    "eiqPerHa": 13.6466140178
+  },
+  {
+    "name": "DECIS",
+    "minRate": 0.075,
+    "maxRate": 0.075,
+    "eiqPerHa": 0.1173272600443461
+  },
+  {
+    "name": "DECISFORTE",
+    "minRate": 0.075,
+    "maxRate": 0.075,
+    "eiqPerHa": 0.4693090401773844
+  },
+  {
+    "name": "DICARZOL",
+    "minRate": 0.1,
+    "maxRate": 0.1,
+    "eiqPerHa": 2.394587602055896
+  },
+  {
+    "name": "DIMETOATO",
+    "minRate": 0.2,
+    "maxRate": 0.2,
+    "eiqPerHa": 14.766562308760001
+  },
+  {
+    "name": "DITHANENT",
+    "minRate": 2.5,
+    "maxRate": 2.5,
+    "eiqPerHa": 113.4057875728
+  },
+  {
+    "name": "DITHANENT(DOW)",
+    "minRate": 0.005,
+    "maxRate": 2.5,
+    "eiqPerHa": 113.4057875728
+  },
+  {
+    "name": "DOMARK",
+    "minRate": 0.75,
+    "maxRate": 0.75,
+    "eiqPerHa": 8.28772758236107
+  },
+  {
+    "name": "DOUGLAS",
+    "minRate": 0.25,
+    "maxRate": 0.25,
+    "eiqPerHa": 6.090442223892187
+  },
+  {
+    "name": "DUALGOLD",
+    "minRate": 1.0,
+    "maxRate": 1.2,
+    "eiqPerHa": 31.42910007072
+  },
+  {
+    "name": "ENGEO",
+    "minRate": 0.3,
+    "maxRate": 0.3,
+    "eiqPerHa": 6.198313722645502
+  },
+  {
+    "name": "ENGEO247SC(SYNGENTA)",
+    "minRate": 0.3,
+    "maxRate": 0.3,
+    "eiqPerHa": 6.20164641966757
+  },
+  {
+    "name": "EQUATIONPRO",
+    "minRate": 0.6,
+    "maxRate": 0.6,
+    "eiqPerHa": 15.91809181412179
+  },
+  {
+    "name": "ERNESTOSILVER",
+    "minRate": 1.25,
+    "maxRate": 1.3,
+    "eiqPerHa": 11.587276026967675
+  },
+  {
+    "name": "FASTAC",
+    "minRate": 0.25,
+    "maxRate": 0.25,
+    "eiqPerHa": 1.469748413517052
+  },
+  {
+    "name": "FROWNCIDE",
+    "minRate": 0.6,
+    "maxRate": 1.5,
+    "eiqPerHa": 29.630128008567123
+  },
+  {
+    "name": "GRAMOXONE",
+    "minRate": 2.0,
+    "maxRate": 2.5,
+    "eiqPerHa": 37.619019000894
+  },
+  {
+    "name": "HARRIER",
+    "minRate": 0.05,
+    "maxRate": 0.1,
+    "eiqPerHa": 0.36151401722759996
+  },
+  {
+    "name": "HERBAGLEX",
+    "minRate": 0.4,
+    "maxRate": 0.77,
+    "eiqPerHa": 8.108901825036321
+  },
+  {
+    "name": "IMAX",
+    "minRate": 0.25,
+    "maxRate": 0.25,
+    "eiqPerHa": 3.6014604889188995
+  },
+  {
+    "name": "INFINITO",
+    "minRate": 1.5,
+    "maxRate": 1.5,
+    "eiqPerHa": 60.14486084154083
+  },
+  {
+    "name": "JANFRYXTRA",
+    "minRate": 0.5,
+    "maxRate": 0.6,
+    "eiqPerHa": 10.76032208380623
+  },
+  {
+    "name": "KARATEZEON",
+    "minRate": 0.05,
+    "maxRate": 0.05,
+    "eiqPerHa": 0.48685416195341036
+  },
+  {
+    "name": "KASUMIN",
+    "minRate": 0.05,
+    "maxRate": 0.25,
+    "eiqPerHa": 0.2939496827034104
+  },
+  {
+    "name": "LANCER97DF",
+    "minRate": 0.54,
+    "maxRate": 0.54,
+    "eiqPerHa": 22.21763560572876
+  },
+  {
+    "name": "LIGERO",
+    "minRate": 2.0,
+    "maxRate": 2.0,
+    "eiqPerHa": 30.095215200715202
+  },
+  {
+    "name": "LINURON",
+    "minRate": 2.8,
+    "maxRate": 2.8,
+    "eiqPerHa": 51.04382152765056
+  },
+  {
+    "name": "LORD36EC",
+    "minRate": 0.45,
+    "maxRate": 0.45,
+    "eiqPerHa": 4.2163407607500005
+  },
+  {
+    "name": "LORSBAN",
+    "minRate": 0.18,
+    "maxRate": 0.225,
+    "eiqPerHa": 6.3929646734759995
+  },
+  {
+    "name": "LORSBANPLUS",
+    "minRate": 0.2,
+    "maxRate": 0.225,
+    "eiqPerHa": 6.6593382015375004
+  },
+  {
+    "name": "MANZATE",
+    "minRate": 2.0,
+    "maxRate": 2.5,
+    "eiqPerHa": 106.31792584949999
+  },
+  {
+    "name": "MATSURI",
+    "minRate": 0.15,
+    "maxRate": 0.15,
+    "eiqPerHa": 3.377448784608726
+  },
+  {
+    "name": "MIRAVISTOP",
+    "minRate": 0.6,
+    "maxRate": 0.6,
+    "eiqPerHa": 5.2249556094
+  },
+  {
+    "name": "MULTIPLICAR",
+    "minRate": 0.5,
+    "maxRate": 0.5,
+    "eiqPerHa": 3.6376273229999994
+  },
+  {
+    "name": "NATIVO",
+    "minRate": 0.6,
+    "maxRate": 0.6,
+    "eiqPerHa": 36.52398294002844
+  },
+  {
+    "name": "PADAN",
+    "minRate": 0.13,
+    "maxRate": 0.153,
+    "eiqPerHa": 2.2272735741846663
+  },
+  {
+    "name": "PANZERGOLD",
+    "minRate": 2.0,
+    "maxRate": 2.0,
+    "eiqPerHa": 41.09698755375359
+  },
+  {
+    "name": "PARAQUAT",
+    "minRate": 2.0,
+    "maxRate": 2.0,
+    "eiqPerHa": 7.7602716223999995
+  },
+  {
+    "name": "PARAQUATRURALCO",
+    "minRate": 2.0,
+    "maxRate": 2.0,
+    "eiqPerHa": 30.095215200715202
+  },
+  {
+    "name": "PERFECTO",
+    "minRate": 0.5,
+    "maxRate": 0.5,
+    "eiqPerHa": 7.492501833253972
+  },
+  {
+    "name": "PHILAMEC",
+    "minRate": 0.35,
+    "maxRate": 0.375,
+    "eiqPerHa": 1.032259426150292
+  },
+  {
+    "name": "POLYRAMDF",
+    "minRate": 2.0,
+    "maxRate": 2.5,
+    "eiqPerHa": 179.06434835287865
+  },
+  {
+    "name": "PRESTIGE",
+    "minRate": 2.5,
+    "maxRate": 2.5,
+    "eiqPerHa": 44.8938327273304
+  },
+  {
+    "name": "PRESTIGE29FS(BAYER)",
+    "minRate": 2.5,
+    "maxRate": 2.5,
+    "eiqPerHa": 29.578686811903182
+  },
+  {
+    "name": "PRISMAULTRA",
+    "minRate": 0.6,
+    "maxRate": 0.6,
+    "eiqPerHa": 10.375957154445105
+  },
+  {
+    "name": "PROMESS",
+    "minRate": 1.875,
+    "maxRate": 2.0,
+    "eiqPerHa": 84.36208917692
+  },
+  {
+    "name": "PULSARGOLD",
+    "minRate": 0.05,
+    "maxRate": 0.05,
+    "eiqPerHa": 1.217135404883526
+  },
+  {
+    "name": "PUNTO",
+    "minRate": 0.25,
+    "maxRate": 0.3,
+    "eiqPerHa": 8.497828119920998
+  },
+  {
+    "name": "RACERM",
+    "minRate": 0.4,
+    "maxRate": 0.4,
+    "eiqPerHa": 10.670373481240924
+  },
+  {
+    "name": "REGLONE",
+    "minRate": 2.0,
+    "maxRate": 2.0,
+    "eiqPerHa": 38.801358112
+  },
+  {
+    "name": "RETAKER",
+    "minRate": 0.2925,
+    "maxRate": 0.3,
+    "eiqPerHa": 4.51727174838
+  },
+  {
+    "name": "REVUSTOP",
+    "minRate": 0.6,
+    "maxRate": 0.7,
+    "eiqPerHa": 16.608342630910094
+  },
+  {
+    "name": "RIDOMILGOLDMZ",
+    "minRate": 2.5,
+    "maxRate": 2.5,
+    "eiqPerHa": 94.76059032166947
+  },
+  {
+    "name": "ROGORPLUS",
+    "minRate": 0.15,
+    "maxRate": 0.2,
+    "eiqPerHa": 6.00999085966532
+  },
+  {
+    "name": "ROTHALONIL",
+    "minRate": 1.7,
+    "maxRate": 1.75,
+    "eiqPerHa": 103.9369334291594
+  },
+  {
+    "name": "ROTHALONIL72",
+    "minRate": 1.7,
+    "maxRate": 1.75,
+    "eiqPerHa": 108.2676389887077
+  },
+  {
+    "name": "ROYALMH",
+    "minRate": 4.0,
+    "maxRate": 7.0,
+    "eiqPerHa": 98.83190926837347
+  },
+  {
+    "name": "SELECT",
+    "minRate": 0.7,
+    "maxRate": 0.7,
+    "eiqPerHa": 6.2964022027199995
+  },
+  {
+    "name": "SENCOREX",
+    "minRate": 1.15,
+    "maxRate": 1.5,
+    "eiqPerHa": 45.02721239617109
+  },
+  {
+    "name": "SENCOREX48(BAYER)",
+    "minRate": 1.4,
+    "maxRate": 1.4,
+    "eiqPerHa": 43.77645649627745
+  },
+  {
+    "name": "SOLANIL",
+    "minRate": 1.7,
+    "maxRate": 1.75,
+    "eiqPerHa": 103.9369334291594
+  },
+  {
+    "name": "SPHINXSUPRA",
+    "minRate": 1.25,
+    "maxRate": 1.25,
+    "eiqPerHa": 46.45323579479565
+  },
+  {
+    "name": "STARKLE",
+    "minRate": 0.1,
+    "maxRate": 0.1,
+    "eiqPerHa": 3.4352429664840005
+  },
+  {
+    "name": "STIMULATE",
+    "minRate": 0.26,
+    "maxRate": 0.279999999999999,
+    "eiqPerHa": 0.0006277883372711977
+  },
+  {
+    "name": "TALONE",
+    "minRate": 2.0,
+    "maxRate": 2.0,
+    "eiqPerHa": 82.48962970568206
+  },
+  {
+    "name": "TALSTAR",
+    "minRate": 0.1075,
+    "maxRate": 0.215,
+    "eiqPerHa": 2.1021627837355
+  },
+  {
+    "name": "TEBUCONAZOLE",
+    "minRate": 0.5,
+    "maxRate": 0.5,
+    "eiqPerHa": 11.11497237491474
+  },
+  {
+    "name": "TETRACONAZOLE",
+    "minRate": 0.75,
+    "maxRate": 0.75,
+    "eiqPerHa": 11.98763549625
+  },
+  {
+    "name": "TIMEROL",
+    "minRate": 0.2,
+    "maxRate": 0.22,
+    "eiqPerHa": 4.5478740410895515
+  },
+  {
+    "name": "TITUS",
+    "minRate": 0.1,
+    "maxRate": 0.1,
+    "eiqPerHa": 0.8730305575199999
+  },
+  {
+    "name": "TIZCA",
+    "minRate": 0.6,
+    "maxRate": 0.6,
+    "eiqPerHa": 11.852051203426848
+  },
+  {
+    "name": "TRACER",
+    "minRate": 0.04,
+    "maxRate": 0.04,
+    "eiqPerHa": 0.5707767961857226
+  },
+  {
+    "name": "VALIS",
+    "minRate": 2.5,
+    "maxRate": 2.5,
+    "eiqPerHa": 88.41639018943005
+  },
+  {
+    "name": "VANTAL",
+    "minRate": 0.35,
+    "maxRate": 0.35,
+    "eiqPerHa": 0.9634421310736059
+  },
+  {
+    "name": "VERTIMEC",
+    "minRate": 0.15,
+    "maxRate": 0.16,
+    "eiqPerHa": 0.22021534424539563
+  },
+  {
+    "name": "VIRANTRA",
+    "minRate": 0.15,
+    "maxRate": 0.15,
+    "eiqPerHa": 10.4499112188
+  },
+  {
+    "name": "ZAMPRO",
+    "minRate": 0.15,
+    "maxRate": 1.2,
+    "eiqPerHa": 21.561209232198024
+  },
+  {
+    "name": "ZAMPRODM",
+    "minRate": 1.2,
+    "maxRate": 1.2,
+    "eiqPerHa": 21.561209232198024
+  },
+  {
+    "name": "ZAMURAY",
+    "minRate": 0.07,
+    "maxRate": 0.07,
+    "eiqPerHa": 0.6844250923790001
+  },
+  {
+    "name": "ZINEB",
+    "minRate": 2.5,
+    "maxRate": 2.5,
+    "eiqPerHa": 104.8849211465
+  },
+  {
+    "name": "ZORVEC",
+    "minRate": 0.2,
+    "maxRate": 0.2,
+    "eiqPerHa": 0.8523071048920001
+  }
+]
